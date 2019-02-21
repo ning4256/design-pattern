@@ -8,3 +8,5 @@
 
 4.[单例模式 single-pattern](https://github.com/ning4256/design-pattern/tree/master/src/com/ning4256/single_pattern)
 
+5.[适配器模式 adapter-pattern](https://github.com/ning4256/design-pattern/tree/master/src/com/ning4256/adapter_pattern)
+
